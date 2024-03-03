@@ -1,0 +1,169 @@
+.main-container {
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+
+}
+
+// body{
+//     height: 100vh;
+//     margin: 0;
+//     width: 100%;
+// }
+.main-inner {
+    height: 100vh;
+    width: 90%;
+}
+
+.nav-bar {
+    height: 12%;
+}
+
+.header {
+    height: 7%;
+    background-color: purple;
+}
+
+.left {
+    height: 513px;
+    width: 50%;
+}
+.header-position{
+    position: absolute;
+    height: 44px;
+    width: 1349px;
+    z-index: -1;
+    left: 0%;
+    right: 0%;
+}
+
+.right {
+    height: 513px;
+    width: 50%;
+    // background-color: bisque;
+}
+
+.search-input {
+    width: 400px;
+    height: 35px;
+    border-radius: 20px;
+    border: purple solid 1px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.account {
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    height: 30px;
+}
+
+.account2 {
+    background-color: rgb(255, 127, 42);
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    color: white;
+    height: 30px;
+}
+
+.account p {
+    margin: 0;
+}
+
+.account2 p {
+    margin: 0;
+}
+
+.color-purple {
+    color: purple;
+}
+
+.color-white {
+    color: white;
+}
+
+.search-position {
+    right: 341.5px;
+    background-color: rgba(128, 128, 128, 0.514);
+    border-radius: 20px;
+    padding: 4px;
+}
+
+.main-header {
+    height: 7%;
+    background-color: purple;
+}
+.image{
+    height: 350px;
+}
+.price-tag{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    color: white;
+    background-color: rgb(255, 127, 42);
+    left: 0;
+    top: 0;
+}
+.padding-10{
+    padding: 10px;
+}
+.price-color{
+    color: rgb(255, 127, 42); ;
+}
+.align-center{
+    align-items: center;
+}
+.color-orange{
+    color: rgb(255, 127, 42);
+}
+.margin-0{
+    margin: 0;
+}
+.color-yellow{
+    color: yellow;
+}
+.signs{
+    font-size: xx-large;
+    background-color: rgb(248, 237, 237);
+    border-radius: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.padding-5{
+    padding: 5px;
+}
+.add-to-cart{
+    width: 250px;
+    height: 45px;
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.add-to-cart:hover{
+    background-color: aquamarine;
+}
+
+.box-sizing{
+   padding:10px 10px 10px 0;
+}
+.gap-3em{
+    gap: 3em;
+}
+.color-gray{
+    color: grey;
+}
+.heart{
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 6px;
+}
+.heart1{
+    border: 1px solid rgb(255, 127, 42);
+    border-radius: 50%;
+    padding: 6px;
+}
